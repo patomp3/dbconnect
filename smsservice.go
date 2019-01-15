@@ -1,4 +1,4 @@
-package smsservice
+package dbconnect
 
 // Shared Service DBConnect v.1
 
