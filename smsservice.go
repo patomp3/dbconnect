@@ -1,5 +1,7 @@
 package main
 
+// Shared Service DBConnect v.1
+
 import (
 	"database/sql"
 	"fmt"
